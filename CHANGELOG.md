@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.1.0](https://github.com/googleapis/python-bigquery/compare/v3.0.1...v3.1.0) (2022-04-13)
+
+
+### Features
+
+* refactor AccessEntry to use _properties pattern ([#1125](https://github.com/googleapis/python-bigquery/issues/1125)) ([acd5612](https://github.com/googleapis/python-bigquery/commit/acd5612d2fc469633936dbc463ce4d70951e7fdd))
+
 ### [3.0.1](https://github.com/googleapis/python-bigquery/compare/v3.0.0...v3.0.1) (2022-03-30)
 
 
